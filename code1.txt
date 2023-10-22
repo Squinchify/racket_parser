@@ -1,0 +1,5 @@
+sum1 = 10 + 5;
+sum2 = 8 + 7;
+if (sum1 > sum2) write sum1;
+end;
+$$

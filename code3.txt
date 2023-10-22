@@ -1,0 +1,10 @@
+num1 = 12 * 3;
+num2 = 5 - 2;
+while (num1 * num2 > 0) 
+    num1 = num1 - 1;
+    write num1;
+endwhile; 
+write num1;
+write num2;
+end;
+$$
